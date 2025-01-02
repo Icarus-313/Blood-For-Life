@@ -116,12 +116,3 @@ Contributions are welcome! Please follow these steps:
 	2.	Create a new branch (feature/new-feature).
 	3.	Commit changes and open a pull request.
 
-License
-
-This project is licensed under the MIT License.
-
-Contact
-
-For questions or support, contact:
-📧 support@bloodforlife.com
-🌐 bloodforlife.com
